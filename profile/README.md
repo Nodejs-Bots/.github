@@ -8,4 +8,4 @@
 
 👩‍💻 Useful resources - We Dont Have Any Yet
 
-🍿 Fun facts - We Will Help Yo with Docker,Node.js,npm,and Your Bots
+🍿 Fun facts - We Will Help You with Docker,Node.js,npm,and Your Bots
