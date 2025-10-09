@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+
 
 🙋‍♀️ A short introduction - We Make Discord Bots Using Node.js
 
@@ -8,4 +8,4 @@
 
 👩‍💻 Useful resources - We Dont Have Any Yet
 
-🍿 Fun facts - We Will Help You with Docker,Node.js,npm,and Your Bots
+🍿 Fun facts - We Will Help You with Docker,Node.js,npm,and Your Discord Bots
