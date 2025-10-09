@@ -8,4 +8,4 @@
 
 👩‍💻 Useful resources - We Dont Have Any Yet
 
-🍿 Fun facts - We Will Help You with Docker,Node.js,npm,and Your Discord Bots
+🍿 Fun facts - We Will Help You with Docker, Node.js, npm, and Your Discord Bots
