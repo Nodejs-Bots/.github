@@ -2,10 +2,4 @@
 
 
 
-🙋‍♀️ A short introduction - We Make Discord Bots Using Node.js
-
-🌈 Contribution guidelines - You can Add Your Discord Bots and We will Help
-
-👩‍💻 Useful resources - We Dont Have Any Yet
-
-🍿 Fun facts - We Will Help You with Docker, Node.js, npm, and Your Discord Bots
+🙋‍♀️ A short introduction - We make discord bots using Node.js that gets better every update
